@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ping -c 4 github.com)"
+      "Bash(ping -c 4 github.com)",
+      "Bash(git config *)"
     ]
   }
 }
